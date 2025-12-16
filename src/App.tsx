@@ -1220,4 +1220,4 @@ export default function SpaceDefender() {
 // Keep all your interfaces, constants, and the SpaceDefender function
 
 // At the very end, add:
-export default SpaceDefender;
+
