@@ -1,4 +1,2 @@
-// Rename the component export
-export default function SpaceDefender() {
-  // Your entire game code here...
-}
+// Make sure this is the last line in App.tsx
+export default SpaceDefender;
